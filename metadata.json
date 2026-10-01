@@ -1,0 +1,6 @@
+{
+  "name": "AeroSound",
+  "description": "Reprodutor de música e sintetizador de áudio no estilo Frutiger Aero com DuDisc 3D, equalizador analógico e áudio espacial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
